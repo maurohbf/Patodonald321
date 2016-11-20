@@ -1,0 +1,6 @@
+C:\Users\mauro\Desktop\FACUL\APS\Tentativa1\Tentativa1\bin\Debug\Tentativa1.exe.config
+C:\Users\mauro\Desktop\FACUL\APS\Tentativa1\Tentativa1\bin\Debug\Tentativa1.exe
+C:\Users\mauro\Desktop\FACUL\APS\Tentativa1\Tentativa1\bin\Debug\Tentativa1.pdb
+C:\Users\mauro\Desktop\FACUL\APS\Tentativa1\Tentativa1\obj\Debug\Tentativa1.csprojResolveAssemblyReference.cache
+C:\Users\mauro\Desktop\FACUL\APS\Tentativa1\Tentativa1\obj\Debug\Tentativa1.exe
+C:\Users\mauro\Desktop\FACUL\APS\Tentativa1\Tentativa1\obj\Debug\Tentativa1.pdb
